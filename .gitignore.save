@@ -1,0 +1,21 @@
+.env
+node_modules/
+.DS_Store
+
+# dotenv secret
+.env
+
+# Forge build artifacout/
+cache/
+
+# Dependencies folder (if you ever `git clone` libs instead of using remappings)
+lib/
+
+# JetBrains IDE settings
+.idea/
+
+# macOS
+.DS_Store
+
+# Swap files
+*.swp

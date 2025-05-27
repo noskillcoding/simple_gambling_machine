@@ -1,0 +1,10 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc = "0.8.29"
+auto_detect_solc = false 
+# You can add other settings like optimizer later if needed
+# For example:
+# optimizer = true
+# optimizer_runs = 200

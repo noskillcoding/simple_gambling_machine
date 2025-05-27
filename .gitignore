@@ -1,0 +1,18 @@
+# dotenv secret
+.env
+
+# Forge build artifacts
+out/
+cache/
+
+# Dependencies folder (if you ever `git clone` libs instead of using remappings)
+lib/
+
+# JetBrains IDE settings
+.idea/
+
+# macOS
+.DS_Store
+
+# Swap files
+*.swp
