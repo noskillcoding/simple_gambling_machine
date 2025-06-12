@@ -1,6 +1,6 @@
 # Simple Gambling Machine
 
-A decentralized gambling contract written in Solidity. Users deposit ETH in a sequence, and after a timeout, the last depositor can claim the majority of the pot, while a portion is distributed randomly among previous depositors. The contract is designed for transparency and fairness, with all logic on-chain.
+A decentralized gambling contract written in Solidity. Users deposit ETH in a sequence, and after a timeout, the last depositor can claim the majority of the pot, while a portion is distributed randomly among previous depositors. The contract is designed for transparency and fairness, with all logic on-chain. Available at https://simplegamblingmachine.eth.limo/
 
 ## Features
 - **Tiered Deposit System:** Deposit requirements and timeouts change based on the number of deposits.
